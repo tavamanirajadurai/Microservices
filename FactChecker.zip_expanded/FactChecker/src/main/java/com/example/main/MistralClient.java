@@ -16,7 +16,7 @@ import java.util.*;
 public class MistralClient {
 
     
-    private String apiKey="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";
+    private String apiKey="";
 
     private String mistralUrl="https://openrouter.ai/api/v1/chat/completions";
 
